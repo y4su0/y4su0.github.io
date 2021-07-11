@@ -82,5 +82,5 @@ sudo pip3 install --pre --extra-index-url https://developer.download.nvidia.com/
 
 あとはこの辺りの情報をいろいろ
 
-* [Jetson Community Projects | NVIDIA Developer](https://developer.nvidia.com/embedded/community/jetson-projects)
+* [Jetson Community Projects / NVIDIA Developer](https://developer.nvidia.com/embedded/community/jetson-projects)
 * [Tensorflow　公式サイト](https://www.tensorflow.org/)
