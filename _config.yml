@@ -7,9 +7,9 @@ url: "https://y4su0.github.io/" # Site base URL
 author:
   name: yasuo ogiuchi
   github: y4su0/y4su0.github.io # GitHub username, used for GitHub icon on the top right
-  linkedin: ritijjain # Your LinkedIn profile url name, used for LinkedIn icon on the top right
+  # linkedin: ritijjain # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   # email: example@example.com # Used for email icon on the top right
-  # homepage: https://ritijjain.com # This links to your name in post meta
+  homepage: https://y4su0.github.io # This links to your name in post meta
   twitter: y4su0 # Twitter username, used for Twitter Card Analytics 
 
 # disqus_name: # Setting this will turn on Disqus comments
