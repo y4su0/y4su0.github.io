@@ -51,3 +51,5 @@ compress_html:
 rss: false # RSS feed icon on or off
 dark_mode: true # Dark mode icon
 project_card_style: modal # Choose from masonry, modal, and flat
+
+theme: jekyll-theme-minimal
