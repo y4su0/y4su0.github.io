@@ -2,6 +2,8 @@
 title: Jetson Nanoのセットアップ (JetPack 4.5対応)
 ---
 
+# Jetson Nanoのセットアップ (JetPack 4.5対応)
+
 JetPack SDK の新しいバージョンが公開されたタイミングで手元の Jetson Nano の再セットアップをやったので、手順のメモ。
 
 * SSH or RDP を使ってリモートで使う
@@ -10,12 +12,12 @@ JetPack SDK の新しいバージョンが公開されたタイミングで手�
 というあたりが目指す最終形。
 Jetson Nano 初期モデルでしか試していませんが、Jetson Nano 2GB でもほぼ同じ手順で行けるはず。
 
-# 初期設定
+## 初期設定
 
 起動するところまでは [公式ドキュメント](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit "Getting Started with Jetson Nano Developer Kit") 通りにセットアップを進めます。特に引っかかることはないと思いますが、言語設定は English にしておけば余計な気を使わなくて済みます。
 あと、公式ドキュメントには [ヘッドレスセットアップの方法](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#setup-headless "Initial Setup Headless Mode") についても記載されていますが、うちの macOS Big Sur ではシリアルデバイスが見つからず、ヘッドレスセットアップは試せていません。Big Sur以降はセキュリティの何とかで [USBシリアルが使えないらしい](https://infornography.blue/mac/macos-big-sur-and-kext/ "あまり知られていないmacOS Big Sur以降で利用不可になるkext | INFORNOGRAPHY") です。
 
-# 必要なソフトのインストール
+## 必要なソフトのインストール
 
 まずはソフトウェアのアップデート。
 
@@ -35,7 +37,7 @@ sudo systemctl restart avahi-daemon
 ここまでやれば、Jetson Nano のキーボードその他は外しても大丈夫です。
 avahi-daemon があれば、初期設定中に設定したマシン名でログインできます (例えば、`ssh 192.168.xxx.xxx` ではなくて、`ssh jetson` みたいな感じ)。
 
-# リモートでの作業
+## リモートでの作業
 
 ここから先は、母艦となるPC上での作業。
 まずはSSH公開鍵のコピー
@@ -62,7 +64,7 @@ sudo systemctl restart xrdp
 
 これでリモートデスクトップが使えます。
 
-# Python関係
+## Python関係
 
 pipでのモジュールインストールだとバイナリファイル周りの依存関係がいろいろ面倒くさいので、aptでインストール
 
@@ -78,7 +80,7 @@ sudo pip3 install --pre --extra-index-url https://developer.download.nvidia.com/
 
 でも行けるかもしれません。
 
-# その後
+## その後
 
 あとはこの辺りの情報をいろいろ
 
