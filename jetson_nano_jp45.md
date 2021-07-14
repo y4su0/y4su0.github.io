@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Jetson Nanoのセットアップ
 description: Jetson Nano セットアップ手順のメモ。JetPack 4.5対応。
 ---
