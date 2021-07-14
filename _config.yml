@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 lang: ja-JP
 title: y4su0.github.io
 description: いろいろメモ
+show_downloads: false
+google_analytics:
