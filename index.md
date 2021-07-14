@@ -3,8 +3,6 @@ title: y4su0.github.io
 description: いろいろメモ
 ---
 
-# y4su0.github.io
-
 試験運用中。
 そのうち他にも何か書く。
 
