@@ -4,13 +4,16 @@ title: Jetson Nanoのセットアップ
 description: Jetson Nano セットアップ手順のメモ。JetPack 4.5対応。
 ---
 
-JetPack SDK の新しいバージョンが公開されたタイミングで手元の Jetson Nano の再セットアップをやったので、手順のメモ。
+# Jetson Nanoのセットアップ
+
+JetPack SDK の新しいバージョンが公開されたタイミングで手元の Jetson Nano の再セットアップをやったので、手順のメモを残しておきます。
 
 * SSH or RDP を使ってリモートで使う
 * Python で機械学習をいろいろやってみる
 
-というあたりが目指す最終形。
+というあたりが目指す最終形です。
 Jetson Nano 初期モデルでしか試していませんが、Jetson Nano 2GB でもほぼ同じ手順で行けるはず。
+JetPackのバージョンは4.5前提。4.5より古いと多分ダメ。
 
 [back](/)
 
