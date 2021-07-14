@@ -1,8 +1,7 @@
 ---
-title: Jetson Nanoのセットアップ (JetPack 4.5対応)
+title: Jetson Nanoのセットアップ
+description: Jetson Nano セットアップ手順のメモ。JetPack 4.5対応。
 ---
-
-# Jetson Nanoのセットアップ (JetPack 4.5対応)
 
 JetPack SDK の新しいバージョンが公開されたタイミングで手元の Jetson Nano の再セットアップをやったので、手順のメモ。
 
