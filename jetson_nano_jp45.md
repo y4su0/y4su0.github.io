@@ -11,6 +11,8 @@ JetPack SDK の新しいバージョンが公開されたタイミングで手�
 というあたりが目指す最終形。
 Jetson Nano 初期モデルでしか試していませんが、Jetson Nano 2GB でもほぼ同じ手順で行けるはず。
 
+[back](/)
+
 ## 初期設定
 
 起動するところまでは [公式ドキュメント](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit "Getting Started with Jetson Nano Developer Kit") 通りにセットアップを進めます。特に引っかかることはないと思いますが、言語設定は English にしておけば余計な気を使わなくて済みます。
@@ -85,3 +87,5 @@ sudo pip3 install --pre --extra-index-url https://developer.download.nvidia.com/
 
 * [Jetson Community Projects / NVIDIA Developer](https://developer.nvidia.com/embedded/community/jetson-projects)
 * [Tensorflow　公式サイト](https://www.tensorflow.org/)
+
+[back](/)
