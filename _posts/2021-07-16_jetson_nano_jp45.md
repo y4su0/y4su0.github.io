@@ -1,7 +1,8 @@
 ---
-layout: default
-title: Jetson Nanoのセットアップ
-description: Jetson Nano セットアップ手順のメモ。JetPack 4.5対応。
+layout: post
+title: Jetson Nanoのセットアップ (JetPack 4.5対応)
+categories: tech
+author: yasuo ogiuchi
 ---
 
 # Jetson Nanoのセットアップ
