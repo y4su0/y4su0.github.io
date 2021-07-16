@@ -3,6 +3,7 @@ layout: post
 title: Jetson Nanoのセットアップ (JetPack 4.5対応)
 categories: tech
 author: yasuo ogiuchi
+date: 2021-07-16
 ---
 
 # Jetson Nanoのセットアップ
