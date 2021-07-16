@@ -6,8 +6,6 @@ author: yasuo ogiuchi
 date: 2021-07-16
 ---
 
-# Jetson Nanoのセットアップ
-
 JetPack SDK の新しいバージョンが公開されたタイミングで手元の Jetson Nano の再セットアップをやったので、手順のメモを残しておきます。
 
 * SSH or RDP を使ってリモートで使う
