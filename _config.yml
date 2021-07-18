@@ -58,3 +58,4 @@ plugins:
 
 paginate: 3
 paginate_path: "/page:num/"
+permalink: /:year/:month/:title.html
