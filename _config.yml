@@ -57,4 +57,4 @@ plugins:
  - jekyll-paginate
 
 paginate: 3
-paginate_path: "/pages/page:num/
+paginate_path: "/page:num/"
