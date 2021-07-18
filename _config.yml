@@ -48,13 +48,8 @@ minima:
 #header_pages:
 # - about.md
 
-markdown: kramdown
+
 remote_theme: jekyll/minima
-gems:
-  - jekyll-paginate-v2
-exclude:
-  - Gemfile
-  - Gemfile.lock
 
 permalink: /:year/:month/:title.html
 
