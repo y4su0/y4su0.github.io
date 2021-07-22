@@ -2,6 +2,7 @@
 title: about
 author: yasuo ogiuchi
 date: 2021-07-15
+layout: page
 ---
 
 ## 書いている人
