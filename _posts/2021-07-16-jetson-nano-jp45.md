@@ -4,6 +4,7 @@ title: Jetson Nanoのセットアップ (JetPack 4.5対応)
 categories: tech
 author: yasuo ogiuchi
 date: 2021-07-16
+excerpt: JetPack SDK の新しいバージョンが公開されたタイミングで手元の Jetson Nano の再セットアップをやったので、手順のメモを残しておきます。
 ---
 
 JetPack SDK の新しいバージョンが公開されたタイミングで手元の Jetson Nano の再セットアップをやったので、手順のメモを残しておきます。
