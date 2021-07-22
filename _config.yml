@@ -54,7 +54,7 @@ remote_theme: jekyll/minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
- - jekyll-paginate
+# - jekyll-paginate
 
 paginate: 3
 paginate_path: "/page:num/"
