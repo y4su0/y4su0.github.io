@@ -1,16 +1,17 @@
 lang: ja
+timezone: Asia/Tokyo
+
 title: y4su0.github.com
-# author:
-#  name: yasuo ogiuchi
+author:
+  name: おぎうちやすお
 description: > # this means to ignore newlines until "show_excerpts:"
-  お試しでいろいろやっているサイト。
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%Y-%m-%d"
+  date_format: "%Y-%m-%d %H:%M"
 
   # generate social links in footer
   social_links:
