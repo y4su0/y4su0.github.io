@@ -1,15 +1,19 @@
 ---
-title: about
-author: yasuo ogiuchi
+title: このサイトについて
+author: おぎうちやすお
 date: 2021-07-15
 layout: page
 ---
 
+技術系のメモを残していきます。
+
+自分が後で困らないように & 誰かが同じ理由で困らないように、というあたりが目的です。
+
 ## 書いている人
 
-- 名前: yasuo ogiuchi
+- 名前: おぎうちやすお
 
-## ネット上での居場所
+### ネット上での居場所
 
-- [Twitter](https://twitter.com/y4su0)
-- [Instagram](https://www.instagram.com/y4su0)
+- [Twitter / @y4su0](https://twitter.com/y4su0)
+- [Instagram / y4su0](https://www.instagram.com/y4su0)
