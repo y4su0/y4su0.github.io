@@ -1,6 +1,4 @@
 .DS_Store
-_includes/*
-_layouts/*
 _sass/*
 _site/*
 assets/*
