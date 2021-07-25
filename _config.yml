@@ -51,9 +51,6 @@ minima:
 #header_pages:
 # - about.md
 
-
-remote_theme: y4su0/minima
-
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
