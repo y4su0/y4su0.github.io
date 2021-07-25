@@ -52,7 +52,7 @@ minima:
 # - about.md
 
 
-remote_theme: y4su0/minima
+remote_theme: y4su0/minima-mod
 
 plugins:
  - jekyll-feed
