@@ -1,9 +1,10 @@
 ---
 layout: post
-title: anacondaのインストールで余計な (base)
+title: コマンドプロンプトに付いてくる (base) への対応
 date: 2021-07-23
+modified_date: 2021-07-25 22:10
 author: おぎうちやすお
-excerpt: anaconda をインストールした時に現れる余計な (base) への対応
+excerpt: mac に anaconda をインストールした時に、コマンドプロンプト先頭に (base) と付くのが鬱陶しいのでその対策です。
 ---
 
 mac に anaconda をインストールした時に、コマンドプロンプト先頭に↓こんな感じで (base) と付くのが鬱陶しいのでその対策です。
@@ -23,7 +24,7 @@ conda config --set auto_activate_base False
 
 ---
 
-anaconda が .zshrc に余計なことを書くのが悪い。
+結論: anaconda が .zshrc に余計なことを書くのが悪い。
 
 ```bash
 # >>> conda initialize >>>
