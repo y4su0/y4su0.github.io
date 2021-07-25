@@ -1,3 +1,5 @@
 .DS_Store
+_sass/*
 _site/*
+assets/*
 .jekyll-cache/*
