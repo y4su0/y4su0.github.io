@@ -16,4 +16,5 @@ layout: page
 ### ネット上での居場所
 
 - [Twitter / @y4su0](https://twitter.com/y4su0)
+    - [Twilog / @y4su0](https://twilog.org/y4su0)
 - [Instagram / y4su0](https://www.instagram.com/y4su0)
