@@ -1,9 +1,8 @@
 .DS_Store
-_includes/*
-_layouts/default.html
-_layouts/page.html
-_layouts/post.html
-_sass/*
 _site/*
-assets/*
 .jekyll-cache/*
+_posts/2016-05-19-super-short-article.md
+_posts/2016-05-20-my-example-post.md
+_posts/2016-05-20-super-long-article.md
+_posts/2016-05-20-this-post-demonstrates-post-content-styles.md
+_posts/2016-05-20-welcome-to-jekyll.md
