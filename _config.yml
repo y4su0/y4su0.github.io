@@ -61,5 +61,5 @@ plugins:
  - jekyll-sitemap
 
 paginate: 3
-paginate_path: "/index/page:num.html"
+paginate_path: "/page:num/"
 permalink: /:year/:month/:title.html
