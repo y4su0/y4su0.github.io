@@ -52,7 +52,7 @@ minima:
 # - about.md
 
 
-remote_theme: y4su0/minima-mod
+remote_theme: Jekyll/minima
 
 plugins:
  - jekyll-feed
@@ -61,5 +61,5 @@ plugins:
  - jekyll-sitemap
 
 paginate: 3
-paginate_path: "/page:num/"
+paginate_path: "/index/page:num.html"
 permalink: /:year/:month/:title.html
