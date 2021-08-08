@@ -1,20 +1,20 @@
 ---
 layout: post
-title: Jetson Nanoのセットアップ (JetPack 4.5対応)
+title: Jetson Nanoのセットアップ (JetPack 4.5以降対応)
 categories: tech
 author: yasuo ogiuchi
 date: 2021-07-16
-excerpt: JetPack SDK の新しいバージョンが公開されたタイミングで手元の Jetson Nano の再セットアップをやったので、手順のメモを残しておきます。
+excerpt: 手元の Jetson Nano の再セットアップをやったので、手順のメモを残しておきます。
 ---
 
-JetPack SDK の新しいバージョンが公開されたタイミングで手元の Jetson Nano の再セットアップをやったので、手順のメモを残しておきます。
+手元の Jetson Nano の再セットアップをやったので、手順のメモを残しておきます。
 
 * SSH or RDP を使ってリモートで使う
 * Python で機械学習をいろいろやってみる
 
 というあたりが目指す最終形です。
 Jetson Nano 初期モデルでしか試していませんが、Jetson Nano 2GB でもほぼ同じ手順で行けるはず。
-JetPackのバージョンは4.5前提。4.5より古いと多分ダメ。
+JetPackのバージョンは4.5前提。2021/08/04 リリースの 4.6 でも大丈夫だったけど、4.5より古いと多分ダメ。
 
 [back](/)
 
@@ -41,6 +41,9 @@ sudo systemctl restart avahi-daemon
 ```
 
 ここまでやれば、Jetson Nano のキーボードその他は外しても大丈夫です。
+
+(JetPack 4.6 だと SSH と avahi-daemon はデフォルトでインストールされているんで、1行目の `sudo apt install ssh avahi-daemon` は不要。`systemctl restart` も「念のため」ぐらいの意味しかないかも)
+
 avahi-daemon があれば、初期設定中に設定したマシン名でログインできます (例えば、`ssh 192.168.xxx.xxx` ではなくて、`ssh jetson` みたいな感じ)。
 
 ## リモートでの作業
@@ -49,8 +52,9 @@ avahi-daemon があれば、初期設定中に設定したマシン名でログ�
 まずはSSH公開鍵のコピー
 
 ```bash
-ssh-copy-id -i .ssh/id_rsa.pub <machine-name>
+ssh-copy-id -i .ssh/id_rsa <machine-name>
 ```
+`.ssh/id_rsa` のところは `.ssh/id_rsa.pub` と書きたくなりますが、上記の通りのコマンドで良きに計らってくれます。
 
 ここで ssh でログイン。
 ディスプレイマネージャの変更 (以下の手順は、"[Save 1GB of Memory! Use LXDE on your Jetson - JetsonHacks](https://www.jetsonhacks.com/2020/11/07/save-1gb-of-memory-use-lxde-on-your-jetson/)" の内容そのままです)。
