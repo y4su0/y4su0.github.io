@@ -5,6 +5,7 @@ categories: tech
 author: yasuo ogiuchi
 date: 2021-07-16
 excerpt: 手元の Jetson Nano の再セットアップをやったので、手順のメモを残しておきます。
+modified_date: 2021-08-08 23:00
 ---
 
 手元の Jetson Nano の再セットアップをやったので、手順のメモを残しておきます。
