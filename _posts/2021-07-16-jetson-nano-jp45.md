@@ -5,7 +5,7 @@ categories: tech
 author: yasuo ogiuchi
 date: 2021-07-16
 excerpt: 手元の Jetson Nano の再セットアップをやったので、手順のメモを残しておきます。
-modified_date: 2021-08-08 23:00
+modified_date: 2021-08-10 15:00
 ---
 
 手元の Jetson Nano の再セットアップをやったので、手順のメモを残しておきます。
@@ -74,6 +74,19 @@ sudo systemctl restart xrdp
 ```
 
 これでリモートデスクトップが使えます。
+
+ここから先は自力でいろいろインストールして環境を構築していくのが定番の手順でしたが、Docker 使った方が圧倒的に楽なので、この辺りの情報をいろいろ見てください。
+
+- [jetson-inference: Hello AI World](https://github.com/dusty-nv/jetson-inference/blob/master/docs/aux-docker.md) (物体認識、物体検出、姿勢認識、その他もろもろ)
+- [Catalog : NVIDIA NGC](https://ngc.nvidia.com/catalog/containers)
+  - [NVIDIA L4T ML : NVIDIA NGC](https://ngc.nvidia.com/catalog/containers/nvidia:l4t-ml) (機械学習関連一通り勢揃い)
+  - [NVIDIA L4T TensorFlow : NVIDIA NGC](https://ngc.nvidia.com/catalog/containers/nvidia:l4t-tensorflow) (みんな大好き TensorFlow)
+
+[back](/)
+
+---
+
+以下、単なる記録として。
 
 ## Python関係
 
