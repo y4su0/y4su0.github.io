@@ -12,7 +12,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
   date_format: "%Y-%m-%d %H:%M"
-
+  skin: auto
+  
   # Generate social links in footer.
   #
   social_links:
