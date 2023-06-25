@@ -30,7 +30,7 @@ minima:
   #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
   #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
-  #   - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
+      - { platform: twitter,        user_url: "https://twitter.com/y4su0" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
       - { platform: mastodon,       user_url: "https://mstdn.jp/@y4su0" }
   #   - { platform: misskey,        user_url: "https://misskey.io/@y4su0" }
