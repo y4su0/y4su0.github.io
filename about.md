@@ -15,5 +15,6 @@ layout: page
 
 ### ネット上での居場所
 
-- [Mastodon / @y4su0@mstdn.jp](https://mstdn.jp/@y4su0)
+- [Mastodon / @y4su0@mastodon-japan.net](https://mastodon-japan.net/@y4su0)
 - [Instagram / y4su0](https://www.instagram.com/y4su0)
+- [Twitter / @y4su0](https://twitter.com/y4su0)
