@@ -17,4 +17,4 @@ layout: page
 
 - [Mastodon / @y4su0@mastodon-japan.net](https://mastodon-japan.net/@y4su0)
 - [Instagram / y4su0](https://www.instagram.com/y4su0)
-- [Twitter / @y4su0](https://twitter.com/y4su0)
+- [Threads / @y4su0](https://www.threads.net/@y4su0)
