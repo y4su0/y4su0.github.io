@@ -1,7 +1,7 @@
 ---
 title: このサイトについて
 author: おぎうちやすお
-date: 2023-02-05
+date: 2023-08-06
 layout: page
 ---
 
@@ -15,6 +15,6 @@ layout: page
 
 ### ネット上での居場所
 
-- [Mastodon / @y4su0@mastodon-japan.net](https://mastodon-japan.net/@y4su0)
 - [Instagram / y4su0](https://www.instagram.com/y4su0)
 - [Threads / @y4su0](https://www.threads.net/@y4su0)
+- [Mastodon / @y4su0@mastodon-japan.net](https://mastodon-japan.net/@y4su0)
