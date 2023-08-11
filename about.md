@@ -1,9 +1,11 @@
 ---
-title: このサイトについて
+title: about
 author: おぎうちやすお
 date: 2023-08-06
 layout: page
 ---
+
+## y4su0.github.io について
 
 技術系のメモを残していきます。
 
