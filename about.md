@@ -1,5 +1,5 @@
 ---
-title: about
+title: Profile
 author: おぎうちやすお
 date: 2023-08-06
 layout: page
