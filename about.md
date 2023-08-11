@@ -15,6 +15,7 @@ layout: page
 
 ### ネット上での居場所
 
-- [Mastodon / @y4su0@mastodon-japan.net](https://mastodon-japan.net/@y4su0)
-- [Instagram / y4su0](https://www.instagram.com/y4su0)
-- [Twitter / @y4su0](https://twitter.com/y4su0)
+
+- <a href = "https://www.instagram.com/y4su0" rel = "me"> Instagram / y4su0</a>
+- <a href = "https://www.threads.net/@y4su0" rel = "me">Threads / @y4su0</a>
+- <a href = "https://mastodon-japan.net/@y4su0" rel = "me">Mastodon / @y4su0@mastodon-japan.net</a>
