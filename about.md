@@ -1,7 +1,7 @@
 ---
 title: このサイトについて
 author: おぎうちやすお
-date: 2023-02-05
+date: 2023-08-06
 layout: page
 ---
 
