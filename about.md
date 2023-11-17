@@ -13,15 +13,15 @@ layout: page
 
 ### ネット上での居場所
 
-- [y4su0.github.io](https://y4su0.github.io/) (このサイト)
+- [y4su0.com](https://y4su0.com/) (このサイト)
 - <a href="https://www.instagram.com/y4su0" rel="me" target="_blank">Instagram / y4su0</a>
 - <a href="https://www.threads.net/@y4su0" rel="me" target="_blank">Threads / @y4su0</a>
 - <a href="https://mastodon-japan.net/@y4su0" rel="me" target="_blank">Mastodon / @y4su0@mastodon-japan.net</a>
 - <a href="https://booklog.jp/users/y4su0" rel="me" target="_blank">ブクログ / おぎうちやすおの本棚</a>
 
-## y4su0.github.io について
+## y4su0.com について
 
-yasuo.github.io では技術系のメモを残していくつもりです。
+yasuo.com では技術系のメモを残していくつもりです。
 
 自分が後で困らないように & 誰かが同じ理由で困らないように、というあたりが目的です。
 
