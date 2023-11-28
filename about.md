@@ -13,7 +13,7 @@ layout: page
 
 ### ネット上での居場所
 
-- [y4su0.com](https://y4su0.com/) (このサイト)
+- [y4su0.com](https://www.y4su0.com/) (このサイト)
 - <a href="https://www.instagram.com/y4su0" rel="me" target="_blank">Instagram / y4su0</a>
 - <a href="https://www.threads.net/@y4su0" rel="me" target="_blank">Threads / @y4su0</a>
 - <a href="https://mastodon-japan.net/@y4su0" rel="me" target="_blank">Mastodon / @y4su0@mastodon-japan.net</a>
