@@ -3,7 +3,7 @@ layout: post
 title: コマンドプロンプトに付いてくる (base) への対応
 date: 2021-07-23
 modified_date: 2021-07-25 22:10
-author: おぎうちやすお
+author: やすお
 excerpt: mac に anaconda をインストールした時に、コマンドプロンプト先頭に (base) と付くのが鬱陶しいのでその対策です。
 ---
 

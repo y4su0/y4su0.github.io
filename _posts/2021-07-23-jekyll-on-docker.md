@@ -3,7 +3,7 @@ layout: post
 title: GitHub Pages をローカルで表示確認
 date: 2021-07-23
 excerpt: Docker で jekyll 使って、GitHub Pages をローカルでお試ししてみるためのあれこれ。
-author: おぎうちやすお
+author: やすお
 ---
 
 ## やりたいこと

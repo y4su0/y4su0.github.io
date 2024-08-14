@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-08-12 21:54
-author: おぎうちやすお
+author: やすお
 title: Jetson NanoでJupyter Server
 excerpt: Jetson Nano上で機械学習関連の環境整備して、Jupyter Server動かして、PCからいろいろできるようにしてみよう、というお話。
 ---

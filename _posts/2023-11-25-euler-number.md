@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-11-25 16:02
-author: おぎうちやすお
+author: やすお
 title: 自然対数の底をモンテカルロ法で求める
 excerpt: 自然対数の底をモンテカルロ法で求める (そのまんま)
 math: true

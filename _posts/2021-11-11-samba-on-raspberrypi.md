@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-11-20 18:00
-author: おぎうちやすお
+author: やすお
 title: Raspberry PiでSambaサーバー
 excerpt: Raspberry PiをSambaサーバーとして動かせるようにするまで。
 ---

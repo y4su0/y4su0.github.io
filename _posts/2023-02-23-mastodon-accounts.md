@@ -2,7 +2,7 @@
 layout: post
 date: 2023-02-23 18:10
 modified_date: 2023-05-01 00:00
-author: おぎうちやすお
+author: やすお
 title: お役立ちMastodonアカウント
 excerpt: ニュースやスポーツ系など、役立ちそうなMastodonアカウントを集めてみました。
 categories: sns

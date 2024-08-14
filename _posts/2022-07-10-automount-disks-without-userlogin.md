@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2022-07-10 14:50
-author: おぎうちやすお
+author: やすお
 title: ログアウト状態でも外付けストレージはマウント
 excerpt: Macでユーザーがログアウトしていても外付けストレージをマウントしたままにしておく方法
 categories: categories

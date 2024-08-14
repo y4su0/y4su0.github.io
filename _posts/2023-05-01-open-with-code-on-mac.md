@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2023-05-01 18:02
-author: おぎうちやすお
+author: やすお
 title: macOSでも右クリックで「Codeで開く」
 excerpt: Windowsなら簡単にできる "右クリックして「Codeで開く」" をmacOSでも実現する
 ---
