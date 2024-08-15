@@ -33,8 +33,9 @@ minima:
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #   - { platform: twitter,        user_url: "https://twitter.com/y4su0" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
-      - { platform: mastodon,       user_url: "https://mastodon-japan.net/@y4su0" }
+  #   - { platform: mastodon,       user_url: "https://mastodon-japan.net/@y4su0" }
   #   - { platform: misskey,        user_url: "https://misskey.io/@y4su0" }
+      - { platform: tumblr,         user_url: "https://y4su0.tumblr.com/" }
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
