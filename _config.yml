@@ -25,6 +25,7 @@ minima:
   #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
       - { platform: threads,        user_url: "https://threads.net/@y4su0" }
       - { platform: instagram,      user_url: "https://www.instagram.com/y4su0" }
+      - { platform: bluesky,        user_url: "https://bsky.app/profile/y4su0.bsky.social" }
   #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
   #   - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
   #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
@@ -33,9 +34,9 @@ minima:
   #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #   - { platform: twitter,        user_url: "https://twitter.com/y4su0" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
-      - { platform: mastodon,       user_url: "https://mastodon-japan.net/@y4su0" }
+  #   - { platform: mastodon,       user_url: "https://mastodon-japan.net/@y4su0" }
   #   - { platform: misskey,        user_url: "https://misskey.io/@y4su0" }
-      - { platform: tumblr,         user_url: "https://y4su0.tumblr.com/" }
+  #   - { platform: tumblr,         user_url: "https://y4su0.tumblr.com/" }
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
