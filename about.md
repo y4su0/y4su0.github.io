@@ -16,7 +16,6 @@ layout: page
 - [y4su0.com](https://www.y4su0.com/) (このサイト)
 - <a href="https://www.instagram.com/y4su0" rel="me" target="_blank">Instagram / y4su0</a>
 - <a href="https://www.threads.net/@y4su0" rel="me" target="_blank">Threads / @y4su0</a>
-- <a href="https://mastodon-japan.net/@y4su0" rel="me" target="_blank">Mastodon / @y4su0@mastodon-japan.net</a>
 - <a href="https://bsky.app/profile/y4su0.com" rel="me" target="_blank">Bluesky / @y4su0.com</a>
 - <a href="https://booklog.jp/users/y4su0" rel="me" target="_blank">ブクログ / やすおの本棚</a>
 
